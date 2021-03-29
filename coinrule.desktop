@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Exec=/path/to/conrule-dir/conrule
+Name=Coinrule
+Comment=Custom conrule client for linux.
+Icon=/path/to/conrule-dir/resources/app/icon.png
+Terminal=false
+Categories=Social
