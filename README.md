@@ -21,7 +21,7 @@ docker pull nativefier/nativefier
 Now you can build the electron application using the following command.
 
 ```bash
-docker run --rm -v /path/to/coinrule-repo:/src -v /tmp:/target nativefier/nativefier --icon /src/icon.png --name coinrule -p linux -a x64 --single-instance --tray https://coinrule.com/ /target/
+docker run --rm -v /path/to/coinrule-repo:/src -v /tmp:/target nativefier/nativefier --icon /src/icon.png --name coinrule -p linux -a x64 --single-instance --tray https://web.coinrule.com/ /target/
 ```
 
 Now you can copy the build wherever you want.
